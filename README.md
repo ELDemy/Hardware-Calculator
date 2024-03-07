@@ -13,6 +13,6 @@
 |                                                                  |             |  Output <= M            |
 |                                                                  |      MC     |  M <= 0                 |
 |                                                                  |             |  Output <= M            |
-|                                                                  |             |  Input                  |
+|[MoFathy](https://github.com/Mo1321)                                                                  |             |  Input                  |
 |[MoNafea01](https://github.com/MoNafea01)                         |             |  Output                 |
 
