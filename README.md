@@ -3,10 +3,10 @@
 
 | Contributors                                                     |  Operation  |       Description       |
 |  ---------                                                       |  ---------  |       -----------       |
-|                                                                  |      +      |  Output <= N1 + N2      |
+|[Mohamed-Fayz](https://github.com/Mohamed-Fayz)                   |      +      |  Output <= N1 + N2      |
 |[Mohamed-Fayz](https://github.com/Mohamed-Fayz)                   |      -      |  Output <= N1 - N2      |
 |                                                                  |      *      |  Output <= N1 * N2      |
-|[MELDemy](https://github.com/MELDemy) & [mohamedmamdoouh](https://github.com/mohamedmamdoouh)                             |      /      |  Output <= N1 / N2      |
+|[MELDemy](https://github.com/MELDemy) & [mohamedmamdoouh](https://github.com/mohamedmamdoouh) |      /      |  Output <= N1 / N2      |
 |[Mohamed0Hisham](https://github.com/Mohamed0Hisham)               |      M+     |  M <= M + N1            |
 |                                                                  |             |  Output <= M            |
 |                                                                  |      M-     |  M <= M - N1            |
