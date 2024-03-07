@@ -14,3 +14,6 @@
 |[MoNafea01](https://github.com/MoNafea01)                         |      MC     |  M <= 0 , Output <= M      |
 |[MoFathy](https://github.com/Mo1321)                              |     N/A     |  Input                     |
 |[MoNafea01](https://github.com/MoNafea01)                         |     N/A     |  Output                    | 
+
+## Preview
+![alt text](https://raw.githubusercontent.com/MELDemy/Calculator/add_sub_mul_div_ip_op_missingM/calc_final_page-0001.jpg)
