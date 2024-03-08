@@ -1,7 +1,7 @@
 # Calculator
 ## A proteus simulation for a calculator using logic circuits.
 | Contributors                                                                                                                     |  Operation    |       Description          |
-|  :---:                                                                                                                           |  :---:        |       -----------          |
+|  -----------                                                                                                                           |  :---:        |       -----------          |
 |[Mohamed-Fayz](https://github.com/Mohamed-Fayz)                                                                                   |      `+`      |  Output <= N1 + N2         |
 |[Mohamed-Fayz](https://github.com/Mohamed-Fayz)                                                                                   |      `-`      |  Output <= N1 - N2         |
 |[Yousef-Zakarya](https://github.com/usf664)                                                                                       |      `×`      |  Output <= N1 * N2         |
