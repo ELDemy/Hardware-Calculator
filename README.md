@@ -8,7 +8,7 @@
 |[MELDemy](https://github.com/MELDemy)<br/>&<br/>[mohamedmamdoouh](https://github.com/mohamedmamdoouh)                             |      `÷`      |  Output <= N1 / N2         |
 |[Mohamed0Hisham](https://github.com/Mohamed0Hisham)                                                                               |      `M+`     |  M <= M + N1 , Output <= M |
 |[Mohamed Waseem](https://github.com/Mohammed973-ai)                                                                               |      `M-`     |  M <= M - N1 , Output <= M |
-|                                                                                                                                  |      `MR`     |  Output <= M               |
+|[MohamedAliShaltoot](https://github.com/MohamedAliShaltoot)                                                                       |      `MR`     |  Output <= M               |
 |[MoNafea01](https://github.com/MoNafea01) <br/>&<br/>[Ahmed Hamdy](https://github.com/Ahmed-1412)                                 |      `MC`     |  M <= 0 , Output <= M      |
 |[MoFathy](https://github.com/Mo1321)                                                                                              |     `Input`   |  => N1 , =>N2              |
 |[MoNafea01](https://github.com/MoNafea01)                                                                                         |     `Output`  |   <=                 | 
