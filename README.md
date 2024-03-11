@@ -4,7 +4,7 @@
 |  -----------                                                                                                                     |  :---:        |       -----------          |
 |[Mohamed-Fayz](https://github.com/Mohamed-Fayz) <br/>&<br/>[Mahmoud Elsayed](https://www.facebook.com/hapyp.alpy.96)              |      `+`      |  Output <= N1 + N2         |
 |[Mohamed-Fayz](https://github.com/Mohamed-Fayz)<br/>&<br/>[mohamednofaal](https://github.com/mohamednofaal)                       |      `-`      |  Output <= N1 - N2         |
-|[Yousef-Zakarya](https://github.com/usf664)                                                                                       |      `×`      |  Output <= N1 * N2         |
+|[Yousef-Zakarya](https://github.com/usf664)<br/>&<br/>[Mohamed Saeed]()                                                           |      `×`      |  Output <= N1 * N2         |
 |[MELDemy](https://github.com/MELDemy)<br/>&<br/>[mohamedmamdoouh](https://github.com/mohamedmamdoouh)                             |      `÷`      |  Output <= N1 / N2         |
 |[Mohamed0Hisham](https://github.com/Mohamed0Hisham)                                                                               |      `M+`     |  M <= M + N1 , Output <= M |
 |[Mohamed Waseem](https://github.com/Mohammed973-ai)                                                                               |      `M-`     |  M <= M - N1 , Output <= M |
